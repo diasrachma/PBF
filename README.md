@@ -1,9 +1,9 @@
-Praktikum: Membuat Project Pertama ReactJS
+# Praktikum: Membuat Project Pertama ReactJS
 npx create-next-app
 ![test](/img/PBF%201.png)
 
-Soal 1
-Pada gambar tersebut, silakan Anda browsing apa yang dimaksud dengan:
+
+# Pada gambar tersebut, silakan Anda browsing apa yang dimaksud dengan:
 
 TypeScript : javascript with type, dimana typescript adalah supersetnya dari javascript
 ESLint : eslint atau linter itu adalah sebuah tools yang biasa di gunakan oleh developer untuk melakukan static analyzes untuk menemukan masalah pada codingan atau potensi yang bisa menimbulkan bug dengan cepat
@@ -33,6 +33,13 @@ buka dengan vscode
 ![test](/img/PBF%203.png)
 Penyebab tidak perlu menjalankan perintah npm run dev dan tidak juga diperlukan me-reload halaman di browser : salah satunya karena menggunakan framework react dimana framework ini mendukung fitur hot reloading (reload otomatis) ketika mengubah kode tanpa harus mereset server
 
+# cukup screenshot dan jelaskan perbedaannya diantara ketiga framework tersebut (termasuk Next.js) di file
+![test](/img/Screenshot%20(183).png) 
+![test](/img/Screenshot%20(184).png)
+
+1. Yang pertama ketika react berhasil diinstal langsung disuguhkan dengan UI untuk membuat komponen-komponen UI dan logika aplikasi berbeda gatsby dan remix
+2. Setelah diinstal remix memiliki struktur proyek yang mirip dengan react namun dengan tambahan fitur dari remix seperti routing server-side, data fetching, dan fitur-fitur lain
+3. Gatsby juga mirip dengan react namun dengan tambahan fitur seperti gatsby-config.js, gatsby-node.js dan folder pages bersifat halaman statis
 
 
 
