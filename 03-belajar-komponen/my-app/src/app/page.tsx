@@ -43,20 +43,20 @@
 //   );
 // }
 
-import { Gallery } from "@/components/gallery";
-import TodoList from "@/components/todolist";
-import Bio from "@/components/bio";
+// import { Gallery } from "@/components/gallery";
+// import TodoList from "@/components/todolist";
+// import Bio from "@/components/bio";
 
-export default function Home() {
- return (
-   <div>
-     <h1 className="text-center">Ilmuwan yang luar biasa</h1>
-      <div className="grid grid-cols-3 gap-8 justify-center">
-     <Gallery/>
-  </div>
-  <Bio/>
-  <TodoList/>
-  </div>
+// export default function Home() {
+//  return (
+//    <div>
+//      <h1 className="text-center">Ilmuwan yang luar biasa</h1>
+//       <div className="grid grid-cols-3 gap-8 justify-center">
+//      <Gallery/>
+//   </div>
+//   <Bio/>
+//   <TodoList/>
+//   </div>
 
- );
-}
+//  );
+// }
