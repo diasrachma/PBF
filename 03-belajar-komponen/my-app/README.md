@@ -19,3 +19,12 @@ kemudian hasilnya sebagai berikut
 
 disini awalnya error ketika pengambilan gambarnya namun ternyata harus ditambahkan di next.config.js
 ![img](/03-belajar-komponen/3.png)
+
+# Praktikum 2 : Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+Berikut kode pada page.tsx 
+![img](/03-belajar-komponen/4.png)
+Kemudian hasilnya gambar serta kolomnya lebih rapat 
+![img](/03-belajar-komponen/5.png)
+
+# Praktikum 3 : menambahkan name pada person
+![img](/03-belajar-komponen/6.png)
