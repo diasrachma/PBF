@@ -1,11 +1,20 @@
-export default function Bio() {
+// export default function Bio() {
+//     return (
+//       <div className="intro">
+//         <h1> Selamat datang di website saya</h1>
+//         <p className="summary">
+//           Anda dapat membaca uneg-uneg di sini. <br></br>
+//           <b>Juga ada <i>foto</i></b> Ilmuwan
+//         </p>
+//       </div>
+//     );
+//   }
+
+  export function getImageUrl(person, size = 's') {
     return (
-      <div className="intro">
-        <h1> Selamat datang di website saya</h1>
-        <p className="summary">
-          Anda dapat membaca uneg-uneg di sini. <br></br>
-          <b>Juga ada <i>foto</i></b> Ilmuwan
-        </p>
-      </div>
+      'https://i.imgur.com/' +
+      person.imageId +
+      size +
+      '.jpg'
     );
   }

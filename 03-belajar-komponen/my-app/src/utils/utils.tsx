@@ -6,3 +6,11 @@ export function getImageUrl(imageId : String, size = 's') {
     '.jpg'
   );
 }
+export function getImageUrlV2(imageId : String, size = 'b') {
+    return (
+      'https://i.imgur.com/' +
+      imageId +
+      size +
+      '.jpg'
+    );
+  }
