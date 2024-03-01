@@ -16,6 +16,8 @@ Hasilnya gambar serta kolomnya lebih rapat
 ![img](/03-belajar-komponen/5.png)
 
 Soal 3 : kode pada bio.jsx
+
+
 ![img](/03-belajar-komponen/10.png)
 
 Kode pada page.tsx untuk pemanggilan
