@@ -36,6 +36,9 @@
 import { Gallery } from "@/components/gallery";
 import MyGallery from "@/components/mygallery";
 import TodoList from "@/components/todolist";
+import Myprofilev2 from "@/components/myprofilev2";
+import MyProfileV2 from "@/components/myprofilev2";
+
 
 export default function Home() {
   return (
@@ -47,6 +50,7 @@ export default function Home() {
       <TodoList />
       <hr />
       <MyGallery />
+      <MyProfileV2 />
     </section>
   );
 }
