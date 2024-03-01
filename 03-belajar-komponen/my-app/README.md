@@ -22,11 +22,16 @@ Soal 3 : kode pada bio.jsx
 
 Kode pada page.tsx untuk pemanggilan
 ![img](/03-belajar-komponen/9.png)
+
 Hasilnya
+
+
 ![img](/03-belajar-komponen/7.png)
 
 Soal 4 
 Menambahkan name pada person
+
+
 ![img](/03-belajar-komponen/6.png)
 
 Soal 5
@@ -44,6 +49,8 @@ Ubah untuk gallery tidak ganda dan utils tersedia
 
 Soal 8 : 
 Ubah komponen myavatar
+
+
 ![img](/03-belajar-komponen/myavatar.png)
 
 
