@@ -1,6 +1,6 @@
 # Praktikum: Membuat Project Pertama ReactJS
 npx create-next-app
-![test](/1.png)
+![test](/2/1.png)
 
 
 # Pada gambar tersebut, silakan Anda browsing apa yang dimaksud dengan:
