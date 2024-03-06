@@ -12,7 +12,7 @@ App Router : router baru yang memungkinkan Anda menggunakan fitur-fitur terbaru 
 Import alias : digunakan untuk mempersingkat dan memperjelas jalur file atau modul.
 
 buka dengan vscode
-![test](/2.png)
+![test](/2/2.png)
 1. Git : folder yg berarti sudah ada tools dimana digunakan untuk mengelola versi source code program 
 2. next. : framework untuk React.js
 3. img : folder memuat image
@@ -30,12 +30,12 @@ buka dengan vscode
 15. tsconfig : objek bersarang yang berisi aturan yang harus diterapkan oleh kompiler TypeScript
 
 # RUN npm run dev serta edit teks
-![test](/3.png)
+![test](/2/3.png)
 Penyebab tidak perlu menjalankan perintah npm run dev dan tidak juga diperlukan me-reload halaman di browser : salah satunya karena menggunakan framework react dimana framework ini mendukung fitur hot reloading (reload otomatis) ketika mengubah kode tanpa harus mereset server
 
 # cukup screenshot dan jelaskan perbedaannya diantara ketiga framework tersebut (termasuk Next.js) di file
-![test](/4.png) 
-![test](/5.png)
+![test](/2/4.png) 
+![test](/2/5.png)
 
 1. Yang pertama ketika react berhasil diinstal langsung disuguhkan dengan UI untuk membuat komponen-komponen UI dan logika aplikasi berbeda gatsby dan remix
 2. Setelah diinstal remix memiliki struktur proyek yang mirip dengan react namun dengan tambahan fitur dari remix seperti routing server-side, data fetching, dan fitur-fitur lain
