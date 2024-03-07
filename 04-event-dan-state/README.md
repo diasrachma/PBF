@@ -16,6 +16,9 @@ Pesan ketika ditekan
 
 ![test](/04-event-dan-state/src/5.png)
 
+Mengapa bisa terjadi ?
+pada praktikum 2 hasilnya sama di praktikum 1 namun hanya ditambahkan button saja yaitu button pesan dengan fungsi yang sama
+
 # Praktikum 3 
 Membuat tombol 1 dan 2 namun masih ada propogationnya
 
