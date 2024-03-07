@@ -1,6 +1,6 @@
 Praktikum 1 : Event Handler
 
-![test](/04-event-dan-state
+![img](/04-event-dan-state
 /1.png)
 Praktikum 2 : Fungsi baru dan isi pesan
 
