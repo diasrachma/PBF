@@ -1,6 +1,7 @@
 Praktikum 1 : Event Handler
 
-![img](/1.png)
+![test](/04-event-dan-state
+/1.png)
 Praktikum 2 : Fungsi baru dan isi pesan
 
 
@@ -16,7 +17,7 @@ kemudian muncul
 Pesan ketika ditekan
 
 
-![img](/5.png)
+![img](/5.png) ![img](/)
 
 
 
