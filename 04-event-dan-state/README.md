@@ -23,7 +23,7 @@ pada praktikum 2 hasilnya sama di praktikum 1 namun hanya ditambahkan button saj
 Membuat tombol 1 dan 2 namun masih ada propogationnya
 
 ![test](/04-event-dan-state/src/6.png)
-Ketika ditekan tombol 1/2 akan muncul
+Ketika ditekan tombol 1 atau 2 akan muncul
 
 ![test](/04-event-dan-state/src/7.png)
 Dan otomatis akan muncul propogation
@@ -62,7 +62,7 @@ Jika jawaban benar
 ![test](/04-event-dan-state/src/tebak2.png)
 Jika jawaban salah
 
-![test](/04-event-dan-state/src/tebak1.png)
+![test](/04-event-dan-state/src/tebak3.png)
 
 Langkah 2 form untuk nama
 
