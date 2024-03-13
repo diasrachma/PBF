@@ -1,12 +1,18 @@
-Praktikum 1 : Membuat routing sederhana
+# Praktikum 1 : Membuat routing sederhana
 setelah melakukan npm install dan menambahkan page.tsx kemudian di npm run dev maka hasilnya akan seperti ini
 
 ![test](/routing-demo-main/1.Welcomehome.png)
-
 Untuk membuat halaman routing /about dengan NextJS, silahkan buat folder /about dalam /app dan buat file dengan nama page.tsx
 
 ![test](/routing-demo-main/2.png)
 ![test](/routing-demo-main/3.png)
-
 hasil
+
 ![test](/routing-demo-main/4.png) 
+to do untuk profile menambahkan profile.tsx
+
+![test](/routing-demo-main/5.png)
+hasil
+
+![test](/routing-demo-main/6.png)
+
