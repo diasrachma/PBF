@@ -1,3 +1,4 @@
+//link untuk blog 1 dan 2
 import Link from "next/link";
 
 export default function Blog() {
