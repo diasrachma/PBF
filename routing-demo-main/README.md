@@ -9,7 +9,7 @@ Untuk membuat halaman routing /about dengan NextJS, silahkan buat folder /about 
 
 hasil
 
-![test](/routing-demo-main/1.welcometoabout.png)
+![test](/routing-demo-main/welcometoabout.png)
 to do untuk profile menambahkan profile.tsx
 
 ![test](/routing-demo-main/tambahprofile.png)
