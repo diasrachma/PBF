@@ -39,7 +39,8 @@ Struktur bersarang memiliki potensi untuk memengaruhi performa sistem, terutama 
 
 # Praktikum 3: Membuat routing dinamis (Dynamic Routing)
 susunan url
-![test](/routing-demo-main/apa.png)
+
+![product](https://github.com/diasrachma/PBF/assets/112748414/4448889b-0577-4083-ba51-246399080a74)
 
 Hasil dari akses product list
 
