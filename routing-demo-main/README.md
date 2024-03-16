@@ -25,9 +25,10 @@ Dengan menggunakan konsep yang sama pada Praktikum 1, menambahkan susunan folder
 ![nestedblog](https://github.com/diasrachma/PBF/assets/112748414/bbb50fea-3d3e-4add-95fa-504b722b7d92)
 
 Hasil
+![first](https://github.com/diasrachma/PBF/assets/112748414/d313b18e-349a-4220-a42d-bcac9eb88bcc)
+![second](https://github.com/diasrachma/PBF/assets/112748414/145993b7-edfa-4c10-908f-91887b3cf746)
 
-![firstblog](https://github.com/diasrachma/PBF/assets/112748414/d40a4f8f-cdcd-45b3-8c8b-ad2aaa1c8fd2)
-![secondblog](https://github.com/diasrachma/PBF/assets/112748414/50d79201-3a8c-446e-a741-ca693bbffedd)
+
 
 Pertanyaan: 
 Apa kekurangan yang mungkin terjadi jika menggunakan pendekatan pada Praktikum 2 untuk menangani routing?
