@@ -22,12 +22,12 @@ hasil
 # Praktikum 2: Membuat routing bersarang (Nested Routing)
 Dengan menggunakan konsep yang sama pada Praktikum 1, menambahkan susunan folder /blogs/first dan /blogs/second. Kemudian menambahkan masing-masing untuk setiap folder dengan file page.tsx. Kemudian menambahkan component kode
 
-![test](/routing-demo-main/susunanblog.png)
+![susunanblog](https://github.com/diasrachma/PBF/assets/112748414/6cdc3ac0-289f-4037-841e-96975ca0f572)
 
 Hasil
 
-![test](/routing-demo-main/firstblog.png)
-![test](/routing-demo-main/secondblog.png)
+![firstblog](https://github.com/diasrachma/PBF/assets/112748414/d40a4f8f-cdcd-45b3-8c8b-ad2aaa1c8fd2)
+![secondblog](https://github.com/diasrachma/PBF/assets/112748414/50d79201-3a8c-446e-a741-ca693bbffedd)
 
 Pertanyaan: 
 Apa kekurangan yang mungkin terjadi jika menggunakan pendekatan pada Praktikum 2 untuk menangani routing?
@@ -40,24 +40,24 @@ susunan url
 
 Hasil dari akses product list
 
-![test](/routing-demo-main/productlist.png)
+![productlist](https://github.com/diasrachma/PBF/assets/112748414/06181130-b850-42f6-9499-7dd5ad49d96f)
 
 Hasil dari akses about product
 
-![test](/routing-demo-main/detailsaboutproduct.png)
+![detailsaboutproduct](https://github.com/diasrachma/PBF/assets/112748414/c6e43574-59c5-40b9-ba42-2545c37b7253)
 
 Hasil dari akses review list
 
-![test](/routing-demo-main/reviewlist.png)
+![reviewlist](https://github.com/diasrachma/PBF/assets/112748414/2bf967d0-aeb8-4a98-91f2-608cde325cef)
 
 Hasil dari akses about review
 
-![test](/routing-demo-main/detailsaboutreview.png)
+![detailsaboutreview](https://github.com/diasrachma/PBF/assets/112748414/c123f255-1838-4902-a391-a8b6fd776663)
 
 # Praktikum 4: Navigasi dengan Link Component
 Tambahkan penggunaan Link komponen
 
-![test](/routing-demo-main/linkkomponen.png)
+![linkkomponen](https://github.com/diasrachma/PBF/assets/112748414/36873bfb-6691-4594-994b-1cbc47f4bd9d)
 
 Hasil
 
