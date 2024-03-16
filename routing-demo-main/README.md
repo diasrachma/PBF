@@ -22,7 +22,7 @@ hasil
 # Praktikum 2: Membuat routing bersarang (Nested Routing)
 Dengan menggunakan konsep yang sama pada Praktikum 1, menambahkan susunan folder /blogs/first dan /blogs/second. Kemudian menambahkan masing-masing untuk setiap folder dengan file page.tsx. Kemudian menambahkan component kode
 
-![susunanblog](https://github.com/diasrachma/PBF/assets/112748414/6cdc3ac0-289f-4037-841e-96975ca0f572)
+![nestedblog](https://github.com/diasrachma/PBF/assets/112748414/bbb50fea-3d3e-4add-95fa-504b722b7d92)
 
 Hasil
 
