@@ -2,6 +2,7 @@
 setelah melakukan npm install dan menambahkan page.tsx kemudian di npm run dev maka hasilnya akan seperti ini
 
 ![test](/routing-demo-main/1.Welcomehome.png)
+
 Untuk membuat halaman routing /about dengan NextJS, silahkan buat folder /about dalam /app dan buat file dengan nama page.tsx
 
 ![test](/routing-demo-main/2.png)
@@ -25,6 +26,7 @@ Dengan menggunakan konsep yang sama pada Praktikum 1, menambahkan susunan folder
 ![nestedblog](https://github.com/diasrachma/PBF/assets/112748414/bbb50fea-3d3e-4add-95fa-504b722b7d92)
 
 Hasil
+
 ![first](https://github.com/diasrachma/PBF/assets/112748414/d313b18e-349a-4220-a42d-bcac9eb88bcc)
 ![second](https://github.com/diasrachma/PBF/assets/112748414/145993b7-edfa-4c10-908f-91887b3cf746)
 
