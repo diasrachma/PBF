@@ -2,6 +2,7 @@
 setelah melakukan npm install dan menambahkan page.tsx kemudian di npm run dev maka hasilnya akan seperti ini
 
 ![test](/routing-demo-main/1.Welcomehome.png)
+
 Untuk membuat halaman routing /about dengan NextJS, silahkan buat folder /about dalam /app dan buat file dengan nama page.tsx
 
 ![test](/routing-demo-main/2.png)
@@ -28,8 +29,10 @@ Dengan menggunakan konsep yang sama pada Praktikum 1, menambahkan susunan folder
 
 Hasil
 
-![firstblog](https://github.com/diasrachma/PBF/assets/112748414/d40a4f8f-cdcd-45b3-8c8b-ad2aaa1c8fd2)
-![secondblog](https://github.com/diasrachma/PBF/assets/112748414/50d79201-3a8c-446e-a741-ca693bbffedd)
+![first](https://github.com/diasrachma/PBF/assets/112748414/d313b18e-349a-4220-a42d-bcac9eb88bcc)
+![second](https://github.com/diasrachma/PBF/assets/112748414/145993b7-edfa-4c10-908f-91887b3cf746)
+
+
 
 Pertanyaan: 
 Apa kekurangan yang mungkin terjadi jika menggunakan pendekatan pada Praktikum 2 untuk menangani routing?
@@ -38,7 +41,8 @@ Struktur bersarang memiliki potensi untuk memengaruhi performa sistem, terutama 
 
 # Praktikum 3: Membuat routing dinamis (Dynamic Routing)
 susunan url
-![test](/routing-demo-main/apa.png)
+
+![product](https://github.com/diasrachma/PBF/assets/112748414/4448889b-0577-4083-ba51-246399080a74)
 
 Hasil dari akses product list
 
