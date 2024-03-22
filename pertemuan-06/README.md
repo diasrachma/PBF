@@ -57,8 +57,31 @@ file baru pada pages/login.tsx
 
    https://github.com/diasrachma/PBF/assets/112748414/5b2abb53-fa54-4fc8-9d72-1cece489f0f1
 
-3. Baris 25 dan 30 terdapat method parse(), apa yang terjadi jika kita tidak menggunakan methode 
-   tersebut?
+2. Baris 25 dan 30 terdapat method parse(), apa yang terjadi jika kita tidak menggunakan methode tersebut?
+
+Jika tidak menggunakan persistStore, maka Redux Persist tidak akan diaktifkan. Redux Persist berfungsi untuk aplikasi nextJS, persistStore memastikan keadaan Redux disimpan dan dipulihkan, sementara parse membantu dalam memulihkan objek dari penyimpanan dengan benar
+
+# Praktikum 3: Membuat Aplikasi Counter Sederhana
+
+buat file di redux/counter/naikTurunSlice.js
+
+![naikturunslice](https://github.com/diasrachma/PBF/assets/112748414/afe64637-c853-440d-ac3f-2cf57039fd29)
+
+modifikasi redux/store/store.js
+
+![store](https://github.com/diasrachma/PBF/assets/112748414/6f3c73a6-8b37-4f8b-bad8-290531656f6c)
+
+file baru di pages/counter.tsx
+
+![counter tsx](https://github.com/diasrachma/PBF/assets/112748414/fc869e85-ec51-48d7-a5d7-69ba9eb0c94f)
+
+Kemudian kita jalankan di browser dengan url localhost:3000/counter
+
+![hasilcounter](https://github.com/diasrachma/PBF/assets/112748414/a26c5488-5335-48d5-9df9-b0c0a7fabd17)
+
+
+https://github.com/diasrachma/PBF/assets/112748414/764d39fc-03cc-4bd2-94ed-0c8a4651641e
+
 
 
 
