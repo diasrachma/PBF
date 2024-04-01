@@ -1,27 +1,30 @@
 # Praktikum 1 : Membuat routing sederhana
 setelah melakukan npm install dan menambahkan page.tsx kemudian di npm run dev maka hasilnya akan seperti ini
 
-![test](/routing-demo-main/1.Welcomehome.png)
+![1 Welcomehome](https://github.com/diasrachma/PBF/assets/112748414/f208c192-ecc7-4b1b-93c1-a8c12dfbcad7)
+
 
 Untuk membuat halaman routing /about dengan NextJS, silahkan buat folder /about dalam /app dan buat file dengan nama page.tsx
 
-![test](/routing-demo-main/2.png)
-![test](/routing-demo-main/3.png)
+![2](https://github.com/diasrachma/PBF/assets/112748414/2c025f1f-91fd-47db-955c-e937fb834514)
+![3](https://github.com/diasrachma/PBF/assets/112748414/29fa5ed6-f264-43e3-a2a3-55c0f2da33f4)
 
 hasil
 
-![test](/routing-demo-main/welcometoabout.png)
+![welcometoabout](https://github.com/diasrachma/PBF/assets/112748414/4afff5e4-18b2-4836-8592-69435881c656)
+
 
 to do untuk profile menambahkan profile.tsx
 
-![test](/routing-demo-main/tambahprofile.png)
+![tambahprofile](https://github.com/diasrachma/PBF/assets/112748414/77008bcb-a906-4786-bf3f-2a6344976297)
+
 
 hasil 
 
-![test](/routing-demo-main/tambahpageprofile.png)
+![tambahpageprofile](https://github.com/diasrachma/PBF/assets/112748414/767eda9b-a69f-446a-a151-ad618e5b5260)
 
-<<<<<<< HEAD
-=======
+
+
 # Praktikum 2: Membuat routing bersarang (Nested Routing)
 Dengan menggunakan konsep yang sama pada Praktikum 1, menambahkan susunan folder /blogs/first dan /blogs/second. Kemudian menambahkan masing-masing untuk setiap folder dengan file page.tsx. Kemudian menambahkan component kode
 
