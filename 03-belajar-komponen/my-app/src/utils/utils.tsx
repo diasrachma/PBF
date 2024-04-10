@@ -14,3 +14,5 @@ export function getImageUrlV2(imageId : String, size = 'b') {
       '.jpg'
     );
   }
+
+  
