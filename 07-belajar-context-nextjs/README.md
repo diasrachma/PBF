@@ -71,3 +71,20 @@ Jika terjadi error, silakan perbaiki, Mengapa hal itu bisa terjadi? Jelaskan!
 Hasilnya :
 
 ![11](https://github.com/diasrachma/PBF/assets/112748414/4e15e4c8-5e7d-49c5-92cd-8b308dc70644)
+
+Menggunakan dan menyediakan context dari komponen yang sama caranya dengan mengubah sedikit kode pada komponen Section:
+
+
+
+Dengan perubahan ini, tidak perlu mengoper prop level baik ke < Section > atau ke < Heading >:
+
+![img](/08-belajar-context/img/prak%201%20langkah%206%20main%20page.PNG)
+
+![img](/08-belajar-context/img/prak%201%20langkah%206%20heading.PNG)
+
+`Soal 3`
+Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang dipelajari dan bagaimana tampilannya saat ini?
+
+![img](/08-belajar-context/img/prak%201%20hasil%20soal%20no%203.PNG)
+
+`Untuk tampilan sama seperti sebelumnya, tetapi dalam penerapan nya menjadi lebih simple karena LevelContext otomatis mendeteksi level dari parent nya, sehingga jika ada Section di dalam Section, otomatis Level parent bertambah 1 dari level sebelumnya`
