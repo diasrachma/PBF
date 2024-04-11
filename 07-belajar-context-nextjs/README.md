@@ -1,36 +1,71 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+'Nama    : Dias Rachma Rosalina
+NIM     : 2341727003'
 
-## Getting Started
+# Praktikum 1: Membuat Variasi Ukuran Teks Heading dengan Context
 
-First, run the development server:
+Buat struktur folder dengan prinsip atomic design
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![1](https://github.com/diasrachma/PBF/assets/112748414/660e8fa6-a665-423c-88ad-f4fa4ce83afd)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Buat file baru di src/components/atoms/heading.tsx berisi kode sebagai berikut.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![prak 1 langkah 3 heading](https://github.com/diasrachma/PBF/assets/112748414/a05f33a1-9845-4df8-a8d2-a2c6985b82aa)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Kemudian buat file baru di src\components\atoms\section.tsx berisi kode berikut.
 
-## Learn More
+![prak 1 langkah 3 section](https://github.com/diasrachma/PBF/assets/112748414/d5b69ace-dff4-46cf-8ead-2e25ff67dccb)
 
-To learn more about Next.js, take a look at the following resources:
+Lalu bagian MainPage buat file baru di src\components\templates\main_page.tsx berisi kode sebagai berikut.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![prak 1 langkah 3 main_page](https://github.com/diasrachma/PBF/assets/112748414/bbcc842e-2c3f-42fe-bd58-0d6dab0ed100)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Ubah isi kode page.tsx dan run
 
-## Deploy on Vercel
+Ubahlah kode di src\app\page.tsx seperti berikut. Lalu run dan lihat hasilnya di browser.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![prak 1 langkah 4](https://github.com/diasrachma/PBF/assets/112748414/48bd0916-d043-40b2-9f13-a43f7135d197)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+'Soal 1
+
+Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?'
+
+![2](https://github.com/diasrachma/PBF/assets/112748414/cf053e23-0e23-43f1-aa1c-90e03084234b)
+
+
+Buat Context
+
+Buatlah file baru di src\utilities\context\mycontext.tsx yang berisi kode sebagai berikut:
+
+![3](https://github.com/diasrachma/PBF/assets/112748414/1755b733-6845-4ca9-8672-078e743896e6)
+
+Gunakan context
+
+Ubahlah isi kode komponen Heading dengan Impor useContext Hook dari React dan context :
+
+![4](https://github.com/diasrachma/PBF/assets/112748414/a2160680-f338-46da-902a-e4f3688553c2)
+
+Sekarang komponen Heading tidak membutuhkan sebuah prop level. Perbarui JSX sehingga Section yang dapat menerimanya:
+
+![5](https://github.com/diasrachma/PBF/assets/112748414/efc47c5b-1dc9-4210-b2c2-79218732157c)
+
+Sediakan context
+
+Komponen Section saat ini merenders anaknya, bungkus mereka semua dengan sebuah context provider untuk menyediakan LevelContext kepada mereka seperti kode berikut:
+
+![8](https://github.com/diasrachma/PBF/assets/112748414/711bc408-7e8a-41ed-8e65-f2b675d3e5b3)
+
+
+Soal 2
+
+Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+
+![6](https://github.com/diasrachma/PBF/assets/112748414/4fdd53f1-af3e-4b8c-834d-8526a0b0066e)
+
+Jika terjadi error, silakan perbaiki, Mengapa hal itu bisa terjadi? Jelaskan!
+
+![7](https://github.com/diasrachma/PBF/assets/112748414/849e6793-ac60-4cb1-adbe-44c07ac93ee3)
+
+Hasilnya :
+
+![11](https://github.com/diasrachma/PBF/assets/112748414/4e15e4c8-5e7d-49c5-92cd-8b308dc70644)
