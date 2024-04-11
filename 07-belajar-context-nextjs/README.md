@@ -1,8 +1,6 @@
-'Nama    : Dias Rachma Rosalina'
-
-NIM     : 2341727003'
-
 `Nama : Dias Rachma Rosalina`
+
+`NIM : 2341727003`
 
 # Praktikum 1: Membuat Variasi Ukuran Teks Heading dengan Context
 
