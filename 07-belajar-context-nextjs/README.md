@@ -74,16 +74,66 @@ Hasilnya :
 
 Menggunakan dan menyediakan context dari komponen yang sama caranya dengan mengubah sedikit kode pada komponen Section:
 
+![prak 1 langkah 6 section](https://github.com/diasrachma/PBF/assets/112748414/513fafb5-5f5f-4b0c-bb61-1b28563bc2f5)
 
 Dengan perubahan ini, tidak perlu mengoper prop level baik ke < Section > atau ke < Heading >:
 
-![img](/08-belajar-context/img/prak%201%20langkah%206%20main%20page.PNG)
+![prak 1 langkah 6 main page 2](https://github.com/diasrachma/PBF/assets/112748414/4df8e746-62fa-4ae3-91ae-5c2f61b188ad)
 
-![img](/08-belajar-context/img/prak%201%20langkah%206%20heading.PNG)
+![3](https://github.com/diasrachma/PBF/assets/112748414/2632c3e9-5639-4ffa-b975-8524dcd4fcf1)
+
 
 `Soal 3`
 Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang dipelajari dan bagaimana tampilannya saat ini?
 
-
+![2](https://github.com/diasrachma/PBF/assets/112748414/7c8228e3-ede8-4021-bf79-6a757bce1c62)
 
 `Untuk tampilan sama seperti sebelumnya, tetapi dalam penerapan nya menjadi lebih simple karena LevelContext otomatis mendeteksi level dari parent nya, sehingga jika ada Section di dalam Section, otomatis Level parent bertambah 1 dari level sebelumnya`
+
+# Praktikum 2: Membuat Context melewati komponen perantara
+
+Buat komponen atom baru
+
+Buatlah file baru di src\components\atoms\section2.tsx berisi kode sebagai berikut.
+
+![img](/08-belajar-context/img/prak%202%20langkah%201%20section2.PNG)
+
+Lalu buatlah file baru di src\components\atoms\post.tsx dengan kode berikut.
+
+![img](/08-belajar-context/img/prak%202%20langkah%201%20post.PNG)
+
+Selanjutnya kita buat molecules di src\components\molecules\recentpost.tsx dengan kode berikut.
+
+![img](/08-belajar-context/img/prak%202%20langkah%201%20recentpost.PNG)
+
+Kemudian buat organisms di src\components\organisms\allpost.tsx dengan kode berikut.
+
+![img](/08-belajar-context/img/prak%202%20langkah%201%20allpost.PNG)
+
+Terakhir kita buat templates di src\components\templates\profile_page.tsx dengan kode berikut.
+
+![img](/08-belajar-context/img/prak%202%20langkah%201%20profile%20page.PNG)
+
+Tambahkan ProfilePage ke page.tsx lalu run
+
+Tambahkan komponen ProfilePage seperti kode berikut.
+
+![img](/08-belajar-context/img/prak%202%20langkah%202%20nambah%20profilepage%20ke%20page.PNG)
+
+Hapus bagian theme pada file tailwind.config.ts seperti kode berikut.
+
+![img](/08-belajar-context/img/prak%202%20langkah%202%20hapus%20theme.PNG)
+
+Hapus semua style CSS di file src\app\globals.css lalu ganti dengan kode berikut.
+
+![img](/08-belajar-context/img/prak%202%20langkah%202%20globals%20css.PNG)
+
+Ketika di run dengan npm run dev maka di browser akan tampil seperti berikut.
+
+![img](/08-belajar-context/img/prak%202%20langkah%202%20hasilnya.PNG)
+
+`Soal 4`
+
+Capture hasilnya dan buatlah laporan di README.md. Tambahkan teks Nama dan NIM pada bagian komponen Post agar menunjukkan itu hasil kerja Anda !
+
+![img](/08-belajar-context/img/prak%202%20langkah%202%20soal%20no%204.PNG)
