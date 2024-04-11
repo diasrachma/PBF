@@ -27,12 +27,11 @@ Ubahlah kode di src\app\page.tsx seperti berikut. Lalu run dan lihat hasilnya di
 ![prak 1 langkah 4](https://github.com/diasrachma/PBF/assets/112748414/48bd0916-d043-40b2-9f13-a43f7135d197)
 
 
-'Soal 1
+'Soal 1'
 
-Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?'
+Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
 
 ![2](https://github.com/diasrachma/PBF/assets/112748414/cf053e23-0e23-43f1-aa1c-90e03084234b)
-
 
 Buat Context
 
@@ -57,7 +56,7 @@ Komponen Section saat ini merenders anaknya, bungkus mereka semua dengan sebuah 
 ![8](https://github.com/diasrachma/PBF/assets/112748414/711bc408-7e8a-41ed-8e65-f2b675d3e5b3)
 
 
-Soal 2
+'Soal 2'
 
 Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
 
@@ -66,6 +65,8 @@ Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda 
 Jika terjadi error, silakan perbaiki, Mengapa hal itu bisa terjadi? Jelaskan!
 
 ![7](https://github.com/diasrachma/PBF/assets/112748414/849e6793-ac60-4cb1-adbe-44c07ac93ee3)
+
+"Error terjadi karena react membutuhkan use client"
 
 Hasilnya :
 
