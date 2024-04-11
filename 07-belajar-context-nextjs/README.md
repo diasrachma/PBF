@@ -75,7 +75,6 @@ Hasilnya :
 Menggunakan dan menyediakan context dari komponen yang sama caranya dengan mengubah sedikit kode pada komponen Section:
 
 
-
 Dengan perubahan ini, tidak perlu mengoper prop level baik ke < Section > atau ke < Heading >:
 
 ![img](/08-belajar-context/img/prak%201%20langkah%206%20main%20page.PNG)
@@ -85,6 +84,6 @@ Dengan perubahan ini, tidak perlu mengoper prop level baik ke < Section > atau k
 `Soal 3`
 Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang dipelajari dan bagaimana tampilannya saat ini?
 
-![img](/08-belajar-context/img/prak%201%20hasil%20soal%20no%203.PNG)
+
 
 `Untuk tampilan sama seperti sebelumnya, tetapi dalam penerapan nya menjadi lebih simple karena LevelContext otomatis mendeteksi level dari parent nya, sehingga jika ada Section di dalam Section, otomatis Level parent bertambah 1 dari level sebelumnya`
