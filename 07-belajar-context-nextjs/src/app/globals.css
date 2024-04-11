@@ -2,7 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
+section {
+  border-color: black;
+  border-width: 2px;
+  padding-left: 15px;
+  margin: 3px;
+  border-style: dashed;
+}
+
+/* :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
@@ -30,4 +38,4 @@ body {
   .text-balance {
     text-wrap: balance;
   }
-}
+} */
