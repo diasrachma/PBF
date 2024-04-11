@@ -1,5 +1,8 @@
-'Nama    : Dias Rachma Rosalina
+'Nama    : Dias Rachma Rosalina'
+
 NIM     : 2341727003'
+
+Pada file `Dias Rachma Rosalina`
 
 # Praktikum 1: Membuat Variasi Ukuran Teks Heading dengan Context
 
