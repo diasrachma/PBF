@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-`Tutorial Restful API di Laravel 9 #1 : Install Laravel 9
+`Tutorial Restful API di Laravel 9 : Install Laravel 9`
 
 composer
 
