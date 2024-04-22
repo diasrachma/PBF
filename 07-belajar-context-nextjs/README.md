@@ -178,15 +178,15 @@ Buat routing
 
 Gantilah isi kode pada src\app\page.tsx menjadi seperti berikut.
 
-![img](/08-belajar-context/img/prak%203%20langkah%205%20page%20benar.PNG)
+![page1](https://github.com/diasrachma/PBF/assets/112748414/422df701-c21c-4122-bc62-5d5ace817465)
 
 Termasuk di masing-masing page src\app\profile\page.tsx, untuk page About dan Contacs silakan Anda sesuaikan.
 
-![img](/08-belajar-context/img/prak%203%20langkah%205%20profile%20page.PNG)
+![page2](https://github.com/diasrachma/PBF/assets/112748414/e5fb65a5-3aa6-45db-9294-a47f07bb40e0)
 
 untuk src\app\contact\page.tsx
 
-![img](/08-belajar-context/img/prak%203%20langkah%205%20contact%20page.PNG)
+![page3](https://github.com/diasrachma/PBF/assets/112748414/bd0e1448-f74a-443e-a993-ceb7d49ad398)
 
 untuk src\app\about\page.tsx
 
